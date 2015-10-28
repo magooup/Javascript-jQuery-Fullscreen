@@ -1,4 +1,4 @@
-js_jquery-fullcreen
+Javascript#jQuery-Fullscreen
 ===================
 
-JS全屏（依赖jquery）
+Javascript全屏按钮（依赖jquery）
